@@ -1,0 +1,16 @@
+{
+  "name": "fork-validator-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "@forkjs/group-router": "^1.0.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eshant Sahu",
+  "license": "ISC"
+}
